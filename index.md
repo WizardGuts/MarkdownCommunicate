@@ -5,3 +5,8 @@
 ```
 Crazy code example!?
 ```
+
+- [x] Make list
+- [x] Look at list
+- [ ] Enjoy the list
+- [x] Regret the list
